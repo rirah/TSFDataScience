@@ -1,2 +1,2 @@
 # TSFDataScience
-Prediction Using Supervised Machine Learning
+Internship Projects
